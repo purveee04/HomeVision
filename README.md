@@ -10,19 +10,15 @@
 
 ### 👤 User
 - Secure Registration & Login
-- View, Book, and Schedule Property Visits
-- Download Property Brochures (PDF)
-- Password Recovery via Email
+- View, Book, and Schedule Property Visitsl
 - Contact Property Owners Directly
-- View Property Locations via Map Integration
+- View Property Locations 
 
 ### 🛠️ Admin
 - Secure Admin Access
 - Add / Update / Delete Properties
-- View Bookings & Generate Reports
+- View Bookings 
 - Manage User Accounts
-- Email Communication with Users
-- Visualize Property Locations
 
 ---
 
@@ -33,7 +29,7 @@
 | **Frontend** | React.js         |
 | **Backend**  | Node.js + Express|
 | **Database** | MongoDB          |
-| **Tools**    | Postman, Git     |
+| **Tools**    |  Git     |
 
 ---
 
@@ -80,10 +76,7 @@ To build a secure, modern real estate platform with:
 - Secure login and admin control
 - Map and brochure integrations
 
-### ⚠️ Limitations
 
-- Relies on third-party email services for communication
-- Requires an active internet connection
 
 ---
 
@@ -91,7 +84,7 @@ To build a secure, modern real estate platform with:
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/purveee04/HomeVision
 cd MERN-Project
 
 # Install dependencies for both frontend and backend
